@@ -1,0 +1,33 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas
+{
+    border-width:15px;
+    background-color: white; 
+    border-style:solid;
+    border-top-color: crimson;
+    border-right-color: gold;
+    border-bottom-color: aqua;
+    border-left-color :olivedrab;
+}
+
+h3
+{
+    border-width:15px;
+    border-style:inset;
+	width: 1000px;
+	background-color: aliceblue;
+	display: inline-block;
+    
+}
+i{
+    color: crimson;
+}
+b{
+    color: rgb(17, 0, 255);
+}
+
